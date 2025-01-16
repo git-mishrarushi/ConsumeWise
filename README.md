@@ -1,2 +1,2 @@
 # ConsumeWise
-Gen AI-powered transparency tool for consumer goods
+Gen AI-powered best transparency tool for consumer goods
