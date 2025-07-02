@@ -6,10 +6,10 @@
 
 ## Features
 
-- AI-generated health reports based on ingredients
+- AI-generated health reports based on ingredients and taste of food in India 
 - Environmental impact scores (sourcing, packaging, emissions)
-- Product lookup by name, barcode, or ingredient list
-- Optional personalization (diet, allergies)
+- Product lookup by name, barcode present in it and ingredient lists. 
+- Optional personalization (diet, allergies etc.)
 
 ---
 
