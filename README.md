@@ -18,4 +18,4 @@
 - **Frontend**: React / Next.js
 - **Backend**: Python (Flask / FastAPI)
 - **AI**: OpenAI API for natural language processing
-- **Data Sources**: Open Food Facts, USDA, and curated datasets
+- **Data Sources**: Open Food Facts, FSSAI, Open Government Data (OGD) Platform India
